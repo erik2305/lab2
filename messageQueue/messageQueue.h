@@ -1,0 +1,10 @@
+#ifndef UNTITLED_MESSAGEQUEUE_H
+#define UNTITLED_MESSAGEQUEUE_H
+
+
+class messageQueue {
+
+};
+
+
+#endif //UNTITLED_MESSAGEQUEUE_H
